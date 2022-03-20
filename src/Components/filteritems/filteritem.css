@@ -1,0 +1,53 @@
+.filteritem-sub{
+    display: flex;
+    flex:1;
+    
+    width: 100%;
+}
+.filteritem-options{
+    display: flex;
+    justify-content: space-around;
+    flex:1; 
+    align-self: baseline;
+    padding: 0;
+    margin: 0;
+}
+.filteritem-sub div{
+    align-self: baseline;
+}
+.para{
+    align-self: baseline;
+    font-weight: 400;
+    font: 14px ;
+    margin: 0;
+    padding: 0;
+}
+.filteritem-sub div h5{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+#clear{
+    font-weight: 500;
+    color: #ff3f6c;
+    font-size: 14px;
+    cursor: pointer;
+}
+.sort-item{
+
+    font-size: 14px;
+    color: #282c3f;
+    cursor: pointer;
+   
+    width: 200px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-color: #fff;
+    border: 1px solid #d4d5d9;
+}
+.spanclass{
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #282c3f;
+}

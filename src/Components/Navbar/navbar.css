@@ -1,0 +1,83 @@
+.myntra-navbar-maindiv{
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    
+}
+
+.myntra-navbar-logo img{
+    height: 36px;
+    width: 53px;
+    padding: 0;
+    margin: 10px;
+    cursor: pointer;
+}
+.myntra-navbar-subdiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 100%;
+}
+.myntra-navbar-blogs{
+    display: flex;
+    justify-content: space-between;
+    flex:1;
+    align-self: center;
+}
+.myntra-navbar-profiledetail{
+    display: flex;
+    width:15%; 
+    justify-content: space-around; 
+    margin:10px
+}
+.myntra-navbar-input input{
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    height: 20px;
+    line-height: 24px;
+    width: 70%;
+    color: #696e79;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 8px 10px 10px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    border-left: 0;
+    background: #f5f5f6;
+}
+.myntra-navbar-input{
+   
+    flex:1;
+  
+    
+}
+.myntra-navbar-logo{
+    margin-left: 10px;
+}
+.myntra-navbar-blogs-content p {
+    color:#282c3f;
+    font-weight:500;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    text-decoration: none;
+    text-align: center;
+    padding: 0 17px 28px
+}
+.myntra-navbar-profilepic p{
+    margin:0;
+    padding: 0;
+    color: #000;
+   
+    font-size: 12px;
+    font-weight: 500;
+   
+    padding-top: 10px;
+    line-height: 6px;
+}
+  .icon{
+      position: relative; 
+      right: 170px;
+      top: 30px;
+  }

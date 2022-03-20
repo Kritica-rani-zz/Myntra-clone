@@ -1,0 +1,115 @@
+{
+   "products": [
+      {
+       "id":1,
+       "name":"abcd",
+       "price": 899,
+       "size":"40 42 44 46",
+       "description":"Comfort to wear",
+       "image":"https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPSUR-T-MEN-COPATE2956072B022AAD/1586406885432_0..jpg",
+        "for":"men",
+        "brand":"Parx Shirts",
+        "category":"fullSleeve"
+      },
+      {
+        "id":2,
+        "name":"xyz",
+        "price": 999,
+        "size":"40 42 44 46",
+        "description":"Comfort to wear",
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/61QwMfrVbaL._AC._SR360,460.jpg",
+        "for":"boys",
+        "brand":"Arrow Shirts",
+        "category":"fullSleeve"
+    },
+        {
+            "id":3,
+            "name":"abcd",
+            "price":899,
+            "size":"40 42 44 46",
+            "description":"Comfort to wear",
+            "image":"https://rukminim1.flixcart.com/image/714/857/kfwvcsw0-0/fabric/p/6/w/no-unstitched-az-393-avzira-original-imafw97jnhtchzue.jpeg?q=50",
+            "for":"boys",
+            "brand":"Zodiac Shirts",
+            "category":"halfSleeve"
+        },
+        {
+             "id":4,
+             "name":"xyz",
+             "price":999,
+             "size":"40 42 44 46",
+             "description":"Comfort to wear",
+            "image":"https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPMENS-BLACK-FPAUS577478D166A515/1562964965436_0..jpg?imwidth=320&impolicy=hq",
+            "for":"men",
+            "brand":"Lee Shirts",
+            "category":"fullSleeve"
+            },
+        {
+                "id":5,
+                "name":"abcd",
+                "price":899,
+                "size":"40 42 44 46",
+                "description":"Comfort to wear",
+                "image":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+                "for":"boys",
+            "brand":"Levis Shirts",
+            "category":"fullSleeve"
+        },
+        {
+                 "id":6,
+                 "name":"xyz",
+                 "price":999,
+                 "size":"40 42 44 46",
+                 "description":"Comfort to wear",
+                  "image":"https://img0.junaroad.com/uiproducts/13989269/zoom_0-1502361440.jpg" ,
+                  "for":"boys",
+                "brand":"Parx Shirts",
+                "category":"halfSleeve" 
+                },
+        {
+            "id":7,
+            "name":"abcd",
+            "price":899,
+            "size":"40 42 44 46",
+            "description":"Comfort to wear",
+            "image":"https://m.media-amazon.com/images/I/41DfnHdewBL.jpg",
+            "for":"boys",
+            "brand":"Lee Shirts",
+            "category":"fullSleeve"
+           },
+           {
+             "id":8,
+             "name":"xyz",
+             "price":999,
+             "size":"40 42 44 46",
+             "description":"Comfort to wear",
+            "image":"https://assets.ajio.com/medias/sys_master/root/20210403/OjjF/6068dc44aeb269a9e33a52ba/-288Wx360H-462103975-pink-MODEL.jpg",
+            "for":"men",
+            "brand":"Zodiac Shirts",
+            "category":"fullSleeve"
+            },
+             {
+                "id":9,
+                "name":"abcd",
+                "price":7899,
+                "size":"40 42 44 46",
+                "description":"Comfort to wear",
+                "image":"https://pantaloons.imgix.net/img/app/product/5/573777-5083398.jpg?w=316.9230769230769&auto=format",
+                "for":"boys",
+            "brand":"Levis Shirts",
+            "category":"fullSleeve"
+                
+               },
+               {
+                 "id":10,
+                 "name":"xyz",
+                 "price":999,
+                 "size":"40 42 44 46",
+                 "description":"Comfort to wear",
+                "image":"https://assets.ajio.com/medias/sys_master/root/20210403/CVQu/60686fe5aeb269a9e3322eb7/-473Wx593H-461125300-white-MODEL.jpg",
+                "for":"boys",
+                "brand":"Parx Shirts",
+                "category":"halfSleeve"
+                }
+    ]
+  }
