@@ -1,115 +1,245 @@
 {
-   "products": [
-      {
-       "id":1,
-       "name":"abcd",
-       "price": 899,
-       "size":"40 42 44 46",
-       "description":"Comfort to wear",
-       "image":"https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPSUR-T-MEN-COPATE2956072B022AAD/1586406885432_0..jpg",
-        "for":"men",
-        "brand":"Parx Shirts",
-        "category":"fullSleeve"
+  "products": [
+    {
+     "id":1,
+     "name":"ALLEN SOLLY",
+     "price": 899,
+     "size":"40 42 44 46",
+     "description":"Comfort to wear",
+     "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/h-and-m-1586291968.jpeg?crop=1xw:1xh;center,top&resize=480:*",
+      "for":"men",
+      "brand":"allen solly",
+      "category":"fullSleeve",
+      "range":"low"
+    },
+    {
+      "id":2,
+      "name":"ROADSTER",
+      "price": 2999,
+      "size":"40 42 44 46",
+      "description":"Casual Denim ",
+      "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/forever21-7-1532709176.png?crop=1xw:1xh;center,top&resize=480:*",
+      "for":"girls",
+      "brand":"roadster",
+      "category":"fullSleeve",
+      "range":"medium"
+  },
+  {
+      "id":3,
+      "name":"ROADSTER",
+      "price":899,
+      "size":"40 42 44 46",
+      "description":"Comfort to wear",
+      "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/107afbaa-25d2-40e4-8e8e-e015f53deff3/sportswear-older-t-shirt-dp3SXH.png",
+      "for":"boys",
+      "brand":"roadster",
+      "category":"halfSleeve",
+      "range":"low"
+  },
+  {
+      "id":4,
+      "name":"ROADSTER",
+      "price":10999,
+      "size":"40 42 44 46",
+      "description":"Woollen Comfy Wear",
+      "image":"https://media.kohlsimg.com/is/image/kohls/Mens-dp-20220106-visnav-02?scl=1&fmt=pjpeg",
+      "for":"men",
+      "brand":"roadster",
+      "category":"fullSleeve",
+      "range":"higher"
+  },
+  {
+      "id":5,
+      "name":"HIGHLANDER",
+      "price":9999,
+      "size":"40 42 44 46",
+      "description":"Comfort to wear",
+      "image":"https://sslimages.shoppersstop.com/sys-master/images/h93/h78/15723111546910/A20APSLEY929BLA_BLACK_alt3.jpg_1088Wx1632H",
+      "for":"women",
+      "brand":"highlander",
+      "category":"fullSleeve",
+      "range":"high"
+  },
+  {
+      "id":6,
+      "name":"LOUIS PHILIPPE",
+      "price":999,
+      "size":"40 42 44 46",
+      "description":"Woollen Comfy Wear",
+      "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14610134/2021/11/25/cab2361f-76f7-4c8d-aeb6-831294193c781637841612681NauticaBoysNavyWhitePureCottonBrandLogoPrintHoodedSweatshirt1.jpg" ,
+      "for":"boys",
+      "brand":"louis philippe",
+      "category":"halfSleeve",
+      "range":"low"
+  },
+  {
+      "id":7,
+      "name":"LOUIS PHILIPPE",
+      "price":12999,
+      "size":"40 42 44 46",
+      "description":"Cool Summer Wear",
+      "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/11780968/2020/4/3/11591b03-97f1-4907-b735-906984c4bcd61585905051096HIGHLANDERMenGreenWhiteSlimFitPrintedCasualShirt1.jpg",
+      "for":"men",
+      "brand":"louis philippe",
+      "category":"fullSleeve",
+      "range":"higher"
+  },
+  {
+      "id":8,
+      "name":"ROADSTER",
+      "price":5999,
+      "size":"40 42 44 46",
+      "description":"Stylish Party Wear ",
+      "image":"https://sslimages.shoppersstop.com/sys-master/images/h36/had/15649628061726/A20317WTFF02BL_BLUSH.jpg_230Wx334H",
+      "for":"women",
+      "brand":"roadster",
+      "category":"fullSleeve",
+      "range":"medium"
+  },
+  {
+      "id":9,
+      "name":"ALLEN SOLLY",
+      "price":7899,
+      "size":"40 42 44 46",
+      "description":"Comfort to wear",
+      "image":"https://image.made-in-china.com/2f0j00mOKTaICsEkbQ/Wholesale-Cotton-T-Shirt-Children-Wear-Boys-Clothes-for-Summer.jpg",
+      "for":"boys",
+      "brand":"allen solly",
+      "category":"fullSleeve",
+      "range":"high"
+          
+  },
+  {
+      "id":10,
+      "name":"HIGHLANDER",
+      "price":999,
+      "size":"40 42 44 46",
+      "description":"Woollen Comfy Wear",
+      "image":"https://www.gap.com/Asset_Archive/GPWeb/content/0027/992/112/assets/dresses.jpg",
+      "for":"girls",
+      "brand":"highlander",
+      "category":"halfSleeve",
+      "range":"low"
+  },
+  {
+      "id":11,
+      "name":"ROADSTER",
+      "price":9999,
+      "size":"40 42 44 46",
+      "description":"Comfort to wear",
+      "image":"https://i.pinimg.com/originals/19/8e/2e/198e2e0d3ab0d8e130dd6900501fe7c0.jpg",
+      "for":"women",
+      "brand":"roadster",
+      "category":"halfSleeve",
+      "range":"high"
+  },
+  {
+      "id":12,
+      "name":"ALLEN SOLLY",
+      "price":5999,
+      "size":"40 42 44 46",
+      "description":"Denim Comfy Wear",
+      "image":"https://i.pinimg.com/564x/10/4f/c0/104fc0e1411a2ff0ab613154313a91ac.jpg",
+      "for":"boys",
+      "brand":"allen solly",
+      "category":"halfSleeve",
+      "range":"medium"
       },
       {
-        "id":2,
-        "name":"xyz",
-        "price": 999,
-        "size":"40 42 44 46",
-        "description":"Comfort to wear",
-        "image":"https://images-eu.ssl-images-amazon.com/images/I/61QwMfrVbaL._AC._SR360,460.jpg",
-        "for":"boys",
-        "brand":"Arrow Shirts",
-        "category":"fullSleeve"
-    },
-        {
-            "id":3,
-            "name":"abcd",
-            "price":899,
-            "size":"40 42 44 46",
-            "description":"Comfort to wear",
-            "image":"https://rukminim1.flixcart.com/image/714/857/kfwvcsw0-0/fabric/p/6/w/no-unstitched-az-393-avzira-original-imafw97jnhtchzue.jpeg?q=50",
-            "for":"boys",
-            "brand":"Zodiac Shirts",
-            "category":"halfSleeve"
-        },
-        {
-             "id":4,
-             "name":"xyz",
-             "price":999,
-             "size":"40 42 44 46",
-             "description":"Comfort to wear",
-            "image":"https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPMENS-BLACK-FPAUS577478D166A515/1562964965436_0..jpg?imwidth=320&impolicy=hq",
-            "for":"men",
-            "brand":"Lee Shirts",
-            "category":"fullSleeve"
-            },
-        {
-                "id":5,
-                "name":"abcd",
-                "price":899,
-                "size":"40 42 44 46",
-                "description":"Comfort to wear",
-                "image":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
-                "for":"boys",
-            "brand":"Levis Shirts",
-            "category":"fullSleeve"
-        },
-        {
-                 "id":6,
-                 "name":"xyz",
-                 "price":999,
-                 "size":"40 42 44 46",
-                 "description":"Comfort to wear",
-                  "image":"https://img0.junaroad.com/uiproducts/13989269/zoom_0-1502361440.jpg" ,
-                  "for":"boys",
-                "brand":"Parx Shirts",
-                "category":"halfSleeve" 
-                },
-        {
-            "id":7,
-            "name":"abcd",
-            "price":899,
-            "size":"40 42 44 46",
-            "description":"Comfort to wear",
-            "image":"https://m.media-amazon.com/images/I/41DfnHdewBL.jpg",
-            "for":"boys",
-            "brand":"Lee Shirts",
-            "category":"fullSleeve"
-           },
-           {
-             "id":8,
-             "name":"xyz",
-             "price":999,
-             "size":"40 42 44 46",
-             "description":"Comfort to wear",
-            "image":"https://assets.ajio.com/medias/sys_master/root/20210403/OjjF/6068dc44aeb269a9e33a52ba/-288Wx360H-462103975-pink-MODEL.jpg",
-            "for":"men",
-            "brand":"Zodiac Shirts",
-            "category":"fullSleeve"
-            },
-             {
-                "id":9,
-                "name":"abcd",
-                "price":7899,
-                "size":"40 42 44 46",
-                "description":"Comfort to wear",
-                "image":"https://pantaloons.imgix.net/img/app/product/5/573777-5083398.jpg?w=316.9230769230769&auto=format",
-                "for":"boys",
-            "brand":"Levis Shirts",
-            "category":"fullSleeve"
-                
-               },
-               {
-                 "id":10,
-                 "name":"xyz",
-                 "price":999,
-                 "size":"40 42 44 46",
-                 "description":"Comfort to wear",
-                "image":"https://assets.ajio.com/medias/sys_master/root/20210403/CVQu/60686fe5aeb269a9e3322eb7/-473Wx593H-461125300-white-MODEL.jpg",
-                "for":"boys",
-                "brand":"Parx Shirts",
-                "category":"halfSleeve"
-                }
-    ]
-  }
+          "id":14,
+          "name":"LOUIS PHILIPPE",
+          "price":2999,
+          "size":"40 42 44 46",
+          "description":"Casual Summer Wear",
+          "image":"https://i.pinimg.com/originals/54/71/17/54711762f9d2825f9f1976d7850e068d.jpg",
+          "for":"women",
+          "brand":"louis philippe",
+          "category":"halfSleeve",
+          "range":"low"
+      },
+      {
+          "id":15,
+          "name":"ALLEN SOLLY",
+          "price":3999,
+          "size":"40 42 44 46",
+          "description":"Cotton Casual Wear",
+          "image":"https://assets.ajio.com/medias/sys_master/root/20210403/CVQu/60686fe5aeb269a9e3322eb7/-473Wx593H-461125300-white-MODEL.jpg",
+          "for":"men",
+          "brand":"allen solly",
+          "category":"halfSleeve",
+          "range":"low"
+      },
+      {
+          "id":16,
+          "name":"HIGHLANDER",
+          "price":1999,
+          "size":"40 42 44 46",
+          "description":"Cotton Casual Wear",
+          "image":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1620339026-best-amazon-dresses-for-women-floral-maxi-1620338999.png",
+          "for":"women",
+          "brand":"highlander",
+          "category":"halfSleeve",
+          "range":"low"
+      },
+      {
+          "id":17,
+          "name":"ROADSTER",
+          "price":8999,
+          "size":"40 42 44 46",
+          "description":"Casual Summer Wear",
+          "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/15882398/2021/10/21/5acfbe28-56c8-48e1-8810-36a770af80de1634794384160CUTECUMBERPurpleA-LineDress1.jpg",
+          "for":"girls",
+          "brand":"roadster",
+          "category":"halfSleeve",
+          "range":"high"
+      },
+      {
+          "id":18,
+          "name":"LOUIS PHILIPPE",
+          "price":5999,
+          "size":"40 42 44 46",
+          "description":"Stylish Party Look",
+          "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2020/10/17/090f9dc1-781d-43ed-a77b-80eb0675a50f1602890526587-1.jpg",
+          "for":"girls",
+          "brand":"louis philippe",
+          "category":"halfSleeve",
+          "range":"medium"
+      },
+      {
+          "id":19,
+          "name":"ROADSTER",
+          "price":999,
+          "size":"40 42 44 46",
+          "description":"Cotton Casual Wear",
+          "image":"https://johnlewis.scene7.com/is/image/JohnLewis/CW-Girls-hyb3-090421",
+          "for":"girls",
+          "brand":"roadster",
+          "category":"halfSleeve",
+          "range":"low"
+      },
+      {
+          "id":20,
+          "name":"HIGHLANDER",
+          "price":10999,
+          "size":"40 42 44 46",
+          "description":"Stylish Party Look",
+          "image":"https://4.imimg.com/data4/LM/WA/GLADMIN-22582208/1-500x500.jpg",
+          "for":"men",
+          "brand":"highlander",
+          "category":"halfSleeve",
+          "range":"higher"
+      },
+      {
+          "id":21,
+          "name":"HIGHLANDER",
+          "price":5999,
+          "size":"40 42 44 46",
+          "description":"Cotton Casual Wear",
+          "image":"https://5.imimg.com/data5/PB/QQ/SO/ANDROID-96509073/product-jpeg-250x250.jpg",
+          "for":"women",
+          "brand":"highlander",
+          "category":"halfSleeve",
+          "range":"medium"
+      }
+  ]
+}

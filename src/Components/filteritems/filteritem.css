@@ -38,16 +38,72 @@
     font-size: 14px;
     color: #282c3f;
     cursor: pointer;
-   
+  
     width: 200px;
-    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     box-sizing: border-box;
     border-radius: 2px;
     background-color: #fff;
-    border: 1px solid #d4d5d9;
+     border: 1px solid #d4d5d9; 
 }
 .spanclass{
     text-transform: capitalize;
     font-weight: 500;
     color: #282c3f;
+}
+/* The container <div> - needed to position the dropdown content */
+.sort-item{
+    position: relative;
+    display: inline-block;
+  }
+
+   
+  
+
+
+.dropdowncontent {
+    display: none;
+     position: absolute;
+    background-color: #fff;
+    padding:  0;
+    min-width: 100%;
+    box-shadow: 0 8px 10px 0 rgb(0 0 0 / 8%);
+    z-index: 1; 
+    cursor: pointer; 
+   
+  }
+  .dropdowncontent p {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+   
+  }
+ 
+
+/* Show the dropdown menu on hover */
+
+ .sort-item{
+     position: relative;
+ }
+  
+  .sort-item:hover .dropdowncontent{
+      display:block !important;
+     
+       
+}
+.size-dropdown{
+    background-color: #fff;
+    box-shadow: 0 8px 10px 0 rgb(0 0 0 / 8%);
+    z-index: 1;
+    cursor: pointer; 
+    position: absolute;
+    display:none
+}
+#size{
+    position: relative;
+    cursor: pointer;
+}
+.size-para:hover .size-dropdown{
+    display: block;
 }
