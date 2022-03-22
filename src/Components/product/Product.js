@@ -8,15 +8,20 @@ export default function Product() {
     console.log("productsData",typeof Products)
   return (
       <>
+      
       <div className='product-border'></div>
+      
     <div className='product-page'>
+    {/* <aside>
+        <RadioSelectors/>
+      </aside> */}
         { Products.map((item)=>{
              console.log("name",item.name)
            return(
               
             <div className='product-main'>
               <div className='product-main-img'> 
-               <img src={item.image}/>
+               <img src={item.image}alt="product"/>
              
               <div className='product-wishlist'><button>Wishlist</button></div>
               </div>
@@ -26,10 +31,12 @@ export default function Product() {
            
            <div className='product-main-desc'> <p> {item.description}</p> </div>
              <div className='product-main-price'>  Rs. {item.price} </div>
+           
              </div>
             </div>
             
         )})}
+        
     </div>
     </>
   )
